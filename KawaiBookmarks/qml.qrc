@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/QmlIncludes/KawaiButton.qml</file>
+        <file>qml/QmlIncludes/KawaiDownloadBar.qml</file>
+        <file>qml/QmlIncludes/KawaiLoadTabButton.qml</file>
+        <file>qml/types/quiotesFromNet/quiotesMain.qml</file>
+        <file>qml/types/quiotesFromNet/quiotesTabs.qml</file>
+        <file>qml/types/quiotesFromNet/quiotesView.qml</file>
+        <file>qml/types/anime/animeInput.qml</file>
+        <file>qml/types/anime/animeTabs.qml</file>
+        <file>qml/types/anime/animeList.qml</file>
+        <file>qml/types/anime/animeView.qml</file>
+        <file>qml/types/anime/animeRedo.qml</file>
+        <file>qml/QmlIncludes/KawaiHorisontalLine.qml</file>
+        <file>qml/QmlIncludes/KawaiVerticalLine.qml</file>
+    </qresource>
+</RCC>
